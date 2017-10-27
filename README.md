@@ -1,10 +1,10 @@
-# waterwave
-custome waterwave by canvas
+# watermark
+custome watermark by canvas
 
 ### DEV
 
 ```nodejs
 npm i -g typescript
 
-tsc index.ts waterwave.ts -w
+tsc index.ts watermark.ts -w
 ```

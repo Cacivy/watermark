@@ -1,4 +1,4 @@
-var waterwave = function (value) {
+var watermark = function (value) {
     var canvas = document.createElement('canvas');
     canvas.width = 300;
     canvas.height = 200;

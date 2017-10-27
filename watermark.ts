@@ -1,4 +1,4 @@
-const waterwave = (value: string) => {
+const watermark = (value: string) => {
   let canvas = document.createElement('canvas')
   canvas.width = 300
   canvas.height = 200
